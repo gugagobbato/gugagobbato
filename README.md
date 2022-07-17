@@ -2,7 +2,7 @@
 
 - Atualmente sou estudante da Universidade de Caxias do Sul e trabalho como desenvolvedor na empresa Keyworks Software LTDA.
 - Meu foco principal tem sido WEB e mobile, muito embora eu goste de aprender sobre todas as áreas da tecnologia.
-- Procuro colaborar em projetos de tecnologia em geral, a fim de arpimorar e refinar meus conhecimentos.
+- Procuro colaborar em projetos de tecnologia em geral, a fim de aprimorar e refinar meus conhecimentos.
 
 ### Redes:
 [<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
