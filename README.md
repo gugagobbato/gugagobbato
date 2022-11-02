@@ -1,4 +1,4 @@
-### Olá, meu nome é Gustavo!
+### Olá, sou o Gustavo!
 
 - Atualmente sou estudante da Universidade de Caxias do Sul e trabalho como desenvolvedor na empresa Keyworks Software.
 - Meus focos principais têm sido WEB e mobile, muito embora eu goste de aprender sobre todas as áreas da tecnologia.
