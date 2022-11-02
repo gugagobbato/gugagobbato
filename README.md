@@ -1,4 +1,5 @@
-### Olá, sou o Gustavo!
+### Olá! Bem vindo(a) ao meu perfil! :)
+#### Um pouco sobre este que vos fala:
 
 - Atualmente sou estudante da Universidade de Caxias do Sul e trabalho como desenvolvedor na empresa Keyworks Software.
 - Meus focos principais têm sido WEB e mobile, muito embora eu goste de aprender sobre todas as áreas da tecnologia.
