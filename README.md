@@ -9,7 +9,7 @@
 [<img align="left" title="Instagram" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" title="Gmail" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-<br>
+<br><br>
 
 ### Programming Languages
 
@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" title="Typescript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<br>
+<br><br>
 
 ### Frameworks and Libraries
 
@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" title="jQuery" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
 
-<br>
+<br><br>
 
 ### Databases
 
@@ -59,7 +59,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" title="SQLServer" alt="SQLServer" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br>
+<br><br>
 
 ### Tools
 
@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" title="npm" alt="npm" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
-<br>
+<br><br>
 
 [instagram]: https://www.instagram.com/gugagobbato/
 [linkedin]: https://www.linkedin.com/in/gustavo-moesch-gobbato/
