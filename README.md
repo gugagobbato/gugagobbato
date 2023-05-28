@@ -1,9 +1,19 @@
 ### Olá! Bem vindo(a) ao meu perfil! :)
 #### Um pouco sobre este que vos fala:
 
-- Atualmente sou estudante da Universidade de Caxias do Sul e trabalho como desenvolvedor na empresa Keyworks Software.
+- Atualmente sou estudante da Universidade de Caxias do Sul e trabalho como desenvolvedor full-stack, na modalidade freelancer.
 - Meus focos principais têm sido WEB e mobile, muito embora eu goste de aprender sobre todas as áreas da tecnologia.
 - Procuro colaborar em projetos de tecnologia em geral, a fim de aprimorar e refinar meus conhecimentos.
+
+<br/>
+
+<div>
+  <a href="https://github.com/gugagobbato"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugagobbato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugagobbato&layout=compact&langs_count=5&theme=tokyonight" />
+</div>
+
+<br/>
 
 ### Networks
 [<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
