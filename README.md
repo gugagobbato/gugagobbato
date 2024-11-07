@@ -1,11 +1,11 @@
 ### Olá! Bem vindo(a) ao meu perfil! :)
 #### Um pouco sobre este que vos fala:
 
---> **Experiência Profissional**: Atuo como Analista de Sistemas na Grendene S/A, onde me especializo em análise e desenvolvimento de soluções mobile e full-stack. Minha experiência inclui criação de interfaces de usuário responsivas, integração de serviços backend, desenvolvimento de APIs robustas e sistemas ERP. Utilizo tecnologias como .NET, Angular e Ionic para criar soluções integradas e otimizadas, focando sempre na performance e na disponibilidade das aplicações.
+--> **Experiência Profissional**: Atualmente Analista de Sistemas, focado em desenvolvimento mobile e full-stack, criação de interfaces responsivas, APIs e sistemas ERP com .NET, Angular e Ionic.
 
---> **Formação Acadêmica**: Graduado em Ciência da Computação pela Universidade de Caxias do Sul (UCS) e atualmente estudante de pós-graduação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), aplico meus conhecimentos em tecnologias como React Native, .NET Core e Angular para enfrentar desafios técnicos complexos e entregar soluções inovadoras em cada projeto.
+--> **Formação Acadêmica**: Graduado em Ciência da Computação pela UCS e atualmente cursando pós-graduação na PUCRS, com forte experiência em React Native, .NET Core e Angular.
 
---> **Objetivo Profissional**: Comprometido com a excelência em design e desenvolvimento de aplicações web e mobile, busco colaborar em projetos que priorizem a usabilidade e a transformação digital. Minha motivação é contribuir com soluções que elevem a experiência do usuário, promovendo acessibilidade e qualidade nos produtos finais.
+--> **Objetivo Profissional**: Comprometido com a excelência em design e desenvolvimento web e mobile, visando usabilidade e inovação para otimizar a experiência do usuário, tanto em âmbito front-end, como em back-end.
 
 <br/>
 
